@@ -3,6 +3,7 @@ This project is a Node.js-based RESTful API that allows the frontend team to ret
 
 
 Requirements
+
 The following requirements must be met by the API:
 Allow the frontend team to retrieve customer information by sending a GET request to the endpoint /api/customers/:id, where id is the ID of the customer.
 Allow the frontend team to update customer information by sending a PUT request to the endpoint /api/customers/:id, where id is the ID of the customer. The request should contain a JSON object with the updated customer information.
@@ -14,6 +15,7 @@ Use Git for version control and push the code to a public repository on GitHub.
 
 
 Installation
+
 To install the API, follow these steps:
 Clone the repository from GitHub
 Run npm install to install all dependencies
