@@ -34,6 +34,7 @@
 <h2 id="usage">Usage</h2>
 <p>Once the server is running, the following endpoints are available:</p>
 <h3 id="get-apicustomersid">GET /api/customers/:id</h3>
+  <img src="getapi.jpg" alt="put ">
 <p>Retrieves customer information for the specified ID. Returns a JSON object with the customer information or an error message if the ID is not found.</p>
 <h3 id="put-apicustomersid">PUT /api/customers/:id</h3>
     <img src="apicall.jpg" alt="put ">
