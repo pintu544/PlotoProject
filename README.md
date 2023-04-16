@@ -36,7 +36,7 @@
 <h3 id="get-apicustomersid">GET /api/customers/:id</h3>
 <p>Retrieves customer information for the specified ID. Returns a JSON object with the customer information or an error message if the ID is not found.</p>
 <h3 id="put-apicustomersid">PUT /api/customers/:id</h3>
-    <img src="https://ibb.co/gDXn0Sj" alt="put ">
+    <img src="apicall.jpg" alt="put ">
 <p>Updates customer information for the specified ID. Expects a JSON object with the updated customer information in the request body. Returns a JSON object with the updated customer information or an error message if the ID is not found or the validation fails.</p>
 <h2 id="testing">Testing</h2>
 <p>To run the tests, use the command <code>npm test</code>. This will run all tests located in the <code>tests</code> directory.</p>
